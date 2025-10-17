@@ -131,3 +131,11 @@
     @media (min-width:900px){
       body{ padding: 30px; }
     }
+footer {
+  margin-top: 36px;
+  padding: 18px 0;
+  color: rgba(255,255,255,0.72);
+  font-size: 0.95rem;
+  text-align: center;
+  background: none;
+}
