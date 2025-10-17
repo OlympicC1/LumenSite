@@ -73,7 +73,7 @@ LumenSite is built to bring clarity and light to digital spaces, an invitation t
 
 ## About Me
 
-LumenSite is part of my journey to create, share, and connect. If you use this template for your own project or just browse for inspiration, I hope it sparks something new in you.
+I created LumenSite as more than a template, it's a reflection of how I see the digital world: full of possibility, ready to be illuminated by anyone willing to share their perspective. My passion is building spaces that spark curiosity and connection. If LumenSite helps you launch something brighter, more creative, or just a little more meaningful, then it's done its job.
 
 ---
 
